@@ -1,2 +1,2 @@
 # Oscode
-A flutter application
+An amazing flutter application
